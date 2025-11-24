@@ -1,5 +1,4 @@
 
----
 ```markdown
 # 🍅 Modern Pomodoro Timer (Tkinter)
 
