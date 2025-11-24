@@ -4,7 +4,6 @@
 
 # ✅ **README.md**
 
-```markdown
 # 🍅 Modern Pomodoro Timer (Tkinter)
 
 A clean, modern, and fully animated Pomodoro Timer built with **Python and Tkinter**, featuring a rounded UI, dark/light mode toggle, custom timer settings, progress animations, sound alerts, and productivity statistics.
