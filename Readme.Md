@@ -1,10 +1,5 @@
-Great — here is your **clean, professional, recruiter-friendly README.md**, perfectly matching your **modern Pomodoro Timer UI**, with no screenshots and no unnecessary sections.
-You can **copy–paste this directly into GitHub**.
 
 ---
-
-# ⭐ **README.md (Final Version)**
-
 ```markdown
 # 🍅 Modern Pomodoro Timer (Tkinter)
 
