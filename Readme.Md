@@ -1,14 +1,22 @@
+Your README is broken because:
 
+* Sections are duplicated
+* Code blocks open but don’t close
+* Extra backticks and repeated “Features” section
+* Project structure block is malformed
+
+I’m fixing **all formatting**, removing duplicates, and giving you a **perfect, clean README.md**.
 
 ---
 
+# ✅ **Final, Corrected, Copy-Paste-Ready README.md**
 
 ```markdown
 # 🍅 Modern Pomodoro Timer (Tkinter)
 
-A clean, modern, and fully animated Pomodoro Timer built with **Python and Tkinter**, featuring an elegant rounded UI, dark/light mode toggle, custom timer settings, progress animations, sound alerts, and productivity statistics.
+A clean, modern, and fully animated Pomodoro Timer built with **Python and Tkinter**, featuring a rounded UI, dark/light mode toggle, custom timer settings, progress animations, sound alerts, and productivity statistics.
 
-This project demonstrates advanced UI work in Tkinter, image rendering, animations, and interactive timer logic.
+This project demonstrates advanced Tkinter GUI design, image rendering, animations, and interactive timer logic.
 
 ---
 
@@ -16,11 +24,11 @@ This project demonstrates advanced UI work in Tkinter, image rendering, animatio
 
 ### 🎨 Modern Rounded UI  
 - Smooth shadows & hover effects  
-- Light and Dark themes  
+- Dark/Light theme toggle  
 - Minimal and distraction-free layout  
 
 ### 🍅 Tomato-Centered Timer  
-- Timer positioned perfectly inside the tomato graphic  
+- Timer positioned perfectly inside the tomato  
 - Pulse animation while running  
 - Adjustable vertical alignment  
 
@@ -29,7 +37,7 @@ Users can set:
 - Work duration  
 - Short break  
 - Long break  
-- One-click Apply  
+- Apply instantly  
 
 ### ▶️ Timer Controls  
 - **Start**  
@@ -37,16 +45,16 @@ Users can set:
 - **Reset**  
 
 ### 🔊 Sound Alerts  
-Short three-tone alert at the end of each session (cross-platform fallback).
+Three-tone alert at the end of each session (with cross-platform fallback).
 
 ### 📈 Productivity Statistics  
 - Work sessions completed  
 - Break sessions completed  
 - Total focus minutes  
-- Animated increment effect  
+- Small animated “bounce” increment effect  
 
 ### 🌀 Animated Progress Arc  
-Circular progress indicator rendered around the tomato.
+Circular progress animation rendered around the tomato.
 
 ---
 
@@ -81,8 +89,8 @@ cd pomodoro-timer
 pip install pillow
 ```
 
-> Tkinter comes preinstalled with Python on Windows & macOS.
-> Linux users may need:
+> Tkinter comes preinstalled on Windows & macOS.
+> Linux users may need to install it using:
 > `sudo apt install python3-tk`
 
 ### 3. Run the app
@@ -104,7 +112,7 @@ python main.py
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-You are free to use, modify, and distribute this software.
+You are free to use, modify, and distribute the software.
 
 ---
 
@@ -113,7 +121,7 @@ You are free to use, modify, and distribute this software.
 * Animated charts for statistics
 * Multiple themes
 * Desktop notifications
-* To-Do integration
+* To-Do list integration
 
 ---
 
@@ -124,5 +132,3 @@ You are free to use, modify, and distribute this software.
 ---
 
 ```
-
----
